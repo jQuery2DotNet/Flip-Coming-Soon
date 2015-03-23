@@ -3,7 +3,7 @@
 
 Simple, cool and clear bootstrap coming soon single page template.
 
-[DEMO](http://jquery2dotnet.github.io/Flip-Coming-Soon//)
+[DEMO](http://jquery2dotnet.github.io/Flip-Coming-Soon/)
 
 Features
 ----------
